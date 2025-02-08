@@ -1,0 +1,9 @@
+With 5 workers: Average time = 658.56ms
+
+With 10 workers: Average time = 780.88ms
+
+With 1 worker: Average time = 205.01ms
+
+With 3 workers: Average time = 546.14ms
+
+
